@@ -195,11 +195,15 @@ SLIDE MENU
   /* text-decoration: none; */
 }
 h3 {
-  margin-top: 16px 
+  margin-top: 24px ;
   text-align: center;
+  color: white;
+  text-decoration: none;
 }
+
 .feature p {
   margin-top: 16px;
+  /* text-align: center; */
 }
 
 /* footer */
@@ -302,6 +306,7 @@ main {
   /* margin: 30px 0; */
   padding: 40px;
   text-decoration: none;
+  background: pink;
 }
 
 .route-intro2 {
@@ -313,6 +318,11 @@ main {
 .route-intro:hover {
   opacity: 0.5;
   color: white;
+}
+
+.route-intro img {
+  margin: 0 auto;
+  max-width: 100%;
 }
 
 .route-intro h3 {
