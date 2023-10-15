@@ -352,23 +352,18 @@ main {
   /* max-width: 800px; */
 }
 
-.routes1 img {
+.route-intro-det img {
   max-width: 100%;
   max-height: 100%;
+  margin: 0 auto;
 }
 
 .route-intro-det {
   text-align: center;
-  margin: 0;
-  max-width: 100%;
-  max-height: 100%;
 }
 
 .route-intro-det-1{
   margin: 8px 0;
-  /* margin: 0 auto;
-  max-width: 100%;
-  max-height: 100%; */
   background: pink; */
 }
 
