@@ -63,6 +63,10 @@ p {
 /* HPインデックス */
 .hpindex{
   margin-top: 10px;
+  max-width: 700px;
+  /* text-align: center; */
+  background: pink;
+  position: left;
 }
 
 /* header */
@@ -263,19 +267,24 @@ main {
 
 /* 目次 */
 .route-menu {
-  text-align: center;
-  margin: 16px;
+  /* text-align: center;
+  margin: 16px; */
   background: #ccc;
+  /* width: 50vh; */
+    max-width: 700px;
+    margin: 0 auto;
 }
 .content {
   list-style-type: none;
 }
 .content li {
   font-size: 24px;
-  border: 16px;
+  text-align: center;
+  margin:4px;
 }
 .content li a {
   text-decoration: none;
+  color: black;
 }
 
 /* ルート紹介 */
