@@ -64,8 +64,6 @@ p {
 .hpindex{
   margin-top: 10px;
   max-width: 700px;
-  /* text-align: center; */
-  background: pink;
   position: left;
 }
 
@@ -304,15 +302,12 @@ main {
 
 .route-intro {
   text-align: center;
-  /* margin: 30px 0; */
-  padding: 40px;
+  padding: 20px;
   text-decoration: none;
-  background: pink;
 }
 
 .route-intro2 {
   text-align: center;
-  /* margin: 30px 0; */
   padding: 20px;
 }
 
@@ -365,14 +360,14 @@ main {
 
 .route-intro-det-1{
   margin: 8px 0;
+  max-width: 100%;
+  max-height: 100%;
 }
 
 .route-intro-p {
   background:#ccc;
   max-width: 700px;
   margin: 0 auto;
-  /* width: calc(100% - 32px); */
-  /* box-sizing: border-box; */
 }
 
 .route-intro-p p{
