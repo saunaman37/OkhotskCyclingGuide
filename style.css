@@ -352,6 +352,11 @@ main {
   /* max-width: 800px; */
 }
 
+.routes1 img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
 .route-intro-det {
   text-align: center;
   margin: 0;
