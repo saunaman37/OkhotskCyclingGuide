@@ -269,14 +269,12 @@ main {
 
 /* 目次 */
 .route-menu {
-  /* text-align: center;
-  margin: 16px; */
   background: #ccc;
-  /* width: 50vh; */
     max-width: 700px;
     margin: 0 auto;
-    padding:0 20px;
+    padding:10px;
 }
+
 .content {
   list-style-type: none;
 }
@@ -285,6 +283,7 @@ main {
   text-align: center;
   margin:4px;
 }
+
 .content li a {
   text-decoration: none;
   color: black;
@@ -360,8 +359,10 @@ main {
 
 .route-intro-det-1{
   margin: 8px 0;
+  /* margin: 0 auto; */
   max-width: 100%;
   max-height: 100%;
+  background: pink;
 }
 
 .route-intro-p {
