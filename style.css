@@ -277,6 +277,7 @@ main {
   /* width: 50vh; */
     max-width: 700px;
     margin: 0 auto;
+    padding:0 20px;
 }
 .content {
   list-style-type: none;
@@ -312,7 +313,7 @@ main {
 .route-intro2 {
   text-align: center;
   /* margin: 30px 0; */
-  padding: 40px;
+  padding: 20px;
 }
 
 .route-intro:hover {
@@ -323,6 +324,7 @@ main {
 .route-intro img {
   margin: 0 auto;
   max-width: 100%;
+  max-height: 100%;
 }
 
 .route-intro h3 {
