@@ -257,6 +257,7 @@ main {
   height: 420px;
   background: url(メルヘンの丘.jpg);
   background-size: cover;
+  background-position: center;
   background-repeat: no-repeat;
   text-align: center;
   padding: 16px 16px;
@@ -341,6 +342,7 @@ main {
   height: 420px;
   background: url(美幌峠２.jpg);
   background-size: cover;
+  background-position: center;
   background-repeat: no-repeat;
   text-align: center;
   padding: 16px 16px;
@@ -398,6 +400,7 @@ main {
   height: 420px;
   background: url(灯台1.jpg);
   background-size: cover;
+  background-position: center;
   background-repeat: no-repeat;
   text-align: center;
   padding: 16px 16px;
@@ -408,6 +411,7 @@ main {
   height: 420px;
   background: url(芝桜２.jpg);
   background-size: cover;
+  background-position: center;
   background-repeat: no-repeat;
   text-align: center;
   padding: 16px 16px;
